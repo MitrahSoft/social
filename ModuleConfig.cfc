@@ -26,7 +26,7 @@ limitations under the License.
 component hint="My Module Configuration"{
 			
 	// Module Properties
-	this.title 				= "Social";
+	this.title 				= "social";
 	this.author 			= "MirahSoft";
 	this.webURL 			= "http://www.mitrahsoft.com";
 	this.description 		= "Social module for contentbox";
@@ -36,13 +36,12 @@ component hint="My Module Configuration"{
 	// If true, looks for layouts in the parent first, if not found, then in module. Else vice-versa
 	this.layoutParentLookup = true;
 	// Module Entry Point
-	this.entryPoint			= "Social";
+	this.entryPoint			= "social";
 
 	function configure(){
 
 		settings = {
 			iconsize = "32",
-			500px  = "",
 			aboutme = "", 
 			addthis = "", 
 			amazon = "", 
@@ -148,7 +147,8 @@ component hint="My Module Configuration"{
 
 
 			};
-
+		settings["500px"]  = "";
+		
 		routes = [
 			{pattern="/", handler="home",action="index"},
 			{pattern="/:handler/:action?"}
