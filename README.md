@@ -6,7 +6,7 @@
 
 ## **Quick Start**
 
-Clone the git repo - `git clone git@github.com:cfmitrah/social.git` - or [download it](https://github.com/cfmitrah/Social/zipball/master).
+Clone the git repo - `git clone git@github.com:mitrahsoft/social.git` - or [download it](https://github.com/mitrahsoft/Social/zipball/master).
 
 ## **Installation**
 
@@ -28,10 +28,10 @@ cbSocial is authored by **[CF Mitrah](http://MitrahSoft.com/)** and everyone is 
 
 If you experience any problems with cbSocial module please:
 
-* [submit a ticket to our issue tracker](https://github.com/cfmitrah/Social/issues)
+* [submit a ticket to our issue tracker](https://github.com/mitrahsoft/Social/issues)
 * fix the error yourself and send us a pull request
 
 ## **Social Media**
 
-You'll find us on [Twitter](https://twitter.com/#!/MitrahSoft), [Facebook](http://www.facebook.com/MitrahSoft) and [Google+](https://plus.google.com/106527713304113857789).
+You'll find us on [Twitter](https://twitter.com/#!/MitrahSoft), [Facebook](http://www.facebook.com/MitrahSoft) and [Google+](https://plus.google.com/+MitrahsoftKovilpatti).
 
